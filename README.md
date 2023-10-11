@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&theme=dark&height=400&section=header&text=Welcome!&desc=Heo-Tae-Min%20/%20Back-end%20developer&fontSize=80&animation=fadeIn&fontAlignY=38&descSize=30&descAlignY=53)
 
-<p aign="left"> <img src="https://komarev.com/ghpvc/?username=heo-tae-min&label=Profile%20views&color=0e75b6&style=flat" alt="heo-tae-min" /> </p>
+![hits](https://komarev.com/ghpvc/?username=heo-tae-min&label=Profile%20views&color=0e75b6&style=flat)
 
 ![Taemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heo-Tae-Min&show_icons=true&theme=graywhite)
 
