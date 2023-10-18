@@ -2,8 +2,6 @@
 
 ![hits](https://komarev.com/ghpvc/?username=heo-tae-min&label=Profile%20views&color=0e75b6&style=flat)
 
-![Taemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heo-Tae-Min&show_icons=true&theme=graywhite)
-
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=taemin555)](https://solved.ac/taemin555)
 
 </br>
